@@ -20,6 +20,9 @@ function playRockPaperScissor(player1, player2) {
 
 }
 
+const resultado = playRockPaperScissor("Pedra", "Tesoura");
+console.log(resultado); // Saída: "Jogador 1 venceu!"
+
 
 
 
