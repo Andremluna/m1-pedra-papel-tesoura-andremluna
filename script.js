@@ -9,3 +9,4 @@ function playRockPaperScissor(player1, player2) {
         return "Jogador 2 venceu!";
     }
 }
+
